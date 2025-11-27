@@ -52,6 +52,4 @@ The goal of this project is to setup a basic remote Linux server and configure i
 
 ---
 
-## Notes
-- Do **not** push private keys to GitHub.  
-- Only the README.md file is submitted.
+
