@@ -1,6 +1,6 @@
 # SSH Remote Server Setup
 
-![SSH Logo](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/07/asymmetric-encryption.webp)
+![SSH Logo]([https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/07/asymmetric-encryption.webp](https://cdn.sanity.io/images/w77i7m8x/production/5250d66fb685b62bbd1a779ea11065610e423cfd-1469x938.gif))
 
 ## Project Goal
 The goal of this project is to setup a basic remote Linux server and configure it to allow SSH connections using two different SSH key pairs.
